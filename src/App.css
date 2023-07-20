@@ -22,10 +22,15 @@
 .App-link {
   color: #61dafb;
 }
+section{
+  padding: 1rem;
+  background-color: whitesmoke;
+}
 .nasa-photo-wrapper{
   display:flex;
   flex-direction: column;
   align-items: center;
+  background-color:gray;
 }
 img{
   max-width: 50%;
@@ -34,5 +39,7 @@ img{
 
 .main-photo-explanation{
   max-width: 50%;
+
+  
 
 }
